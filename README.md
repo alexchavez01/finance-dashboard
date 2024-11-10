@@ -13,7 +13,7 @@ The Financial Insight Pro Dashboard is a personalized financial tracking and ana
 
 ## Technology Stack
 
-- **Frontend**: Built with React (or your chosen frontend framework) for a responsive, user-friendly interface.
+- **Frontend**: Built with React for a responsive, user-friendly interface.
 - **Backend**: Node.js/Express server to manage API requests and handle data processing.
 - **Database**: MongoDB and Postman for securely storing user data and investment records.
 - **Charts & Visualizations**: Integration with Chart.js for easy-to-read graphs showing portfolio composition and growth over time.
