@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Financial Insight Pro Dashboard is a personalized financial tracking and analysis tool designed for users to manage their own investment data. With the flexibility to add, delete, and analyze personal financial data, users can easily track portfolio changes and observe growth through detailed percentage breakdowns. This dashboard is ideal for individuals who prefer to monitor their own investment performance without relying on pre-loaded market data.
+The Finance Dashboard is a personalized financial tracking and analysis tool designed for users to manage their own investment data. With the flexibility to add, delete, and analyze personal financial data, users can easily track portfolio changes and observe growth through detailed percentage breakdowns. This dashboard is ideal for individuals who prefer to monitor their own investment performance without relying on pre-loaded market data.
 
 ## Features
 
